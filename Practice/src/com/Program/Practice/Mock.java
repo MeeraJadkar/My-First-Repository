@@ -1,7 +1,7 @@
 package com.Program.Practice;
 
 public class Mock {
-
+	
 	public static void main(String[] args) {
 		
 		int i=0;
@@ -11,6 +11,8 @@ public class Mock {
 			i++;
 		}while(i<=10);
 		System.out.println(sum);
+		System.out.println("I am Sanket is here ");
 	}
+
 
 }
