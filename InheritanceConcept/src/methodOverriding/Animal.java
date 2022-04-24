@@ -11,7 +11,7 @@ package methodOverriding;
 }
 	class Dog extends Animal{
 		public void Sound() {
-			System.out.println("Bark");
+			System.out.println("Kitty");
 		}
 	}
 	class Cat extends Animal{
