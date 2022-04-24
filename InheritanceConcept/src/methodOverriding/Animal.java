@@ -16,7 +16,7 @@ package methodOverriding;
 	}
 	class Cat extends Animal{
 		public void Sound() {
-			System.out.println("Meow");
+			System.out.println("Bow Bow");
 		}
 		public static void main(String[] args) {
 			Cat obj = new Cat();

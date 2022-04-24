@@ -9,7 +9,7 @@ public class Parent {
 		System.out.println("Antilia");
 	}
 	public void add() {
-		int a=10;
+		int a=20;
 		int b=20;
 		System.out.println("Addition" +(a+b));
 	}
