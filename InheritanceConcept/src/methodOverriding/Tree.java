@@ -3,7 +3,7 @@ package methodOverriding;
  public class Tree {
 	
 	public void Taste() {
-		System.out.println("I am fro");
+		System.out.println("I am from pune");
 	}
 }
 
