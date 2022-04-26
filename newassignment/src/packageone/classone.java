@@ -15,6 +15,11 @@ public class classone {
  System.out.println("yes, I like tea" + softdrinks.tea);
  System.out.println("Do you drink milk daily?" + softdrinks.milk);
  System.out.println("icecream is popular among children" + softdrinks.icecream);
+ 
+ System.out.println("this is new");
+ 
+ 
+ 
 	}
 		 
 }
